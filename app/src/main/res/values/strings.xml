@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week4Application</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="mode">
+
+        <item>Addition</item>
+        <item>Multiplication</item>
+
+    </array>
+</resources>
